@@ -76,50 +76,6 @@ class _CategoryState extends State<Category> {
             ],
           ),
         ),
-        /*Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  Container(
-                    height: 100,
-                    width: 100,
-                    decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Colors.grey.shade300,),
-                    child: IconButton(onPressed: (){}, icon: Icon(Icons.domain),),
-                  ),
-                  Container(
-                    height: 100,
-                    width: 100,
-                    decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Colors.grey.shade300,),
-                    child: IconButton(onPressed: (){}, icon: Icon(Icons.sports_volleyball),),
-                  ),
-                ],
-              ),
-              SizedBox(height: 20,),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  Container(
-                    height: 100,
-                    width: 100,
-                    decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Colors.grey.shade300,),
-                    child: IconButton(onPressed: (){}, icon: Icon(Icons.settings),),
-                  ),
-                  Container(
-                    height: 100,
-                    width: 100,
-                    decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Colors.grey.shade300,),
-                    child: IconButton(onPressed: (){}, icon: Icon(Icons.science),),
-                  ),
-                ],
-              ),
-              SizedBox(
-                height: 20,
-              ),
-              Container(
-                height: 100,
-                width: 100,
-                decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Colors.grey.shade300,),
-                child: IconButton(onPressed: (){}, icon: Icon(Icons.local_police_outlined),),
-              ),*/
       ),
     );
   }
